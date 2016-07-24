@@ -20,7 +20,7 @@
 .content{
     height:475px;
     width:100%;
-    background:url('images/loginbg.png') center center #e93854 no-repeat;
+    background:url('../images/loginbg.png') center center #e93854 no-repeat;
     /*background-size:contain;*/
 }
 .content .login-form{
@@ -39,7 +39,7 @@
     display:inline-block;
     height:16px;
     width:16px;
-    background:url("images/pwd-icons-new.png") -104px -75px no-repeat;
+    background:url("../images/pwd-icons-new.png") -104px -75px no-repeat;
     vertical-align:middle;
     margin-right:5px;
 }
@@ -59,7 +59,7 @@
     display:inline-block;
     height:16px;
     width:16px;
-    background:url("images/pwd-icons-new.png") -104px -22px no-repeat;
+    background:url("../images/pwd-icons-new.png") -104px -22px no-repeat;
     margin-right:8px;
 }
 
@@ -80,7 +80,7 @@ form .item,.coagent{
     z-index:3;
     width:38px;
     height:38px;
-    background:url('images/pwd-icons-new.png') no-repeat;
+    background:url('../images/pwd-icons-new.png') no-repeat;
 }
 .name-label{
    background-position:0 -96px;

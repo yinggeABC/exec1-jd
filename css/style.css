@@ -299,8 +299,8 @@ li.bj .bj-1{
 
     _display: block;
     display: inline-block;
-    background-image: url(images/toolbar.png);
-    _background-image: url(images/toolbar-png8.png);
+    background-image: url(../images/toolbar.png);
+    _background-image: url(../images/toolbar-png8.png);
     background-repeat: no-repeat;
 }
 .jdm-toolbar-tab .tab-text {
@@ -459,7 +459,7 @@ li.bj .bj-1{
 .right .gw-left {
     height:24px;
     width:24px;
-    background: url(images/jd2015img.png) 0 -58px no-repeat;
+    background: url(../images/jd2015img.png) 0 -58px no-repeat;
     position:absolute;
     left:15px;
 }
@@ -980,7 +980,7 @@ position:absolute;
     right:0;
     height:5px;
     width:365px;
-    background:#b72323 url('images/homebg.png') 0 -124px no-repeat;
+    background:#b72323 url('../images/homebg.png') 0 -124px no-repeat;
 }
 #guessyou .list1 ul{
     border:1px solid #ccc;
@@ -1064,7 +1064,7 @@ position:absolute;
 .mz .side .side-inner{
     position:relative;
     width:330px;
-    background:url('images/56d03188N199b8851.jpg') no-repeat;
+    background:url('../images/56d03188N199b8851.jpg') no-repeat;
     -webkit-animation:myMove 5s ease-in infinite;
     -moz-animation:myMove 5s ease-in infinite;
     -o-animation:myMove 5s ease-in infinite;
@@ -1073,34 +1073,34 @@ position:absolute;
 
 @-webkit-keyframes myMove{
      from{
-         background:url('images/56d03188N199b8851.jpg')
+         background:url('../images/56d03188N199b8851.jpg')
      }
      to{
-         background:url('images/56d1b5acN456bdcb1.jpg') no-repeat;
+         background:url('../images/56d1b5acN456bdcb1.jpg') no-repeat;
      }
  }
 @-moz-keyframes myMove{
     from{
-        background:url('images/56d03188N199b8851.jpg') no-repeat;
+        background:url('../images/56d03188N199b8851.jpg') no-repeat;
     }
     to{
-        background:url('images/56d1b5acN456bdcb1.jpg') no-repeat;
+        background:url('../images/56d1b5acN456bdcb1.jpg') no-repeat;
     }
 }
 @-o-keyframes myMove{
     from{
-        background:url('images/56d03188N199b8851.jpg') no-repeat;
+        background:url('../images/56d03188N199b8851.jpg') no-repeat;
     }
     to{
-        background:url('images/56d1b5acN456bdcb1.jpg') no-repeat;
+        background:url('../images/56d1b5acN456bdcb1.jpg') no-repeat;
     }
 }
 @keyframes myMove{
     from{
-        background:url('images/56d03188N199b8851.jpg')
+        background:url('../images/56d03188N199b8851.jpg')
     }
     to{
-        background: url('images/56d1b5acN456bdcb1.jpg') no-repeat;
+        background: url('../images/56d1b5acN456bdcb1.jpg') no-repeat;
     }
 }
 
@@ -1139,22 +1139,22 @@ position:absolute;
 }
 
 .fore1 .icon{
-    background:url('images/clothesicon.png') 0 0 no-repeat;
+    background:url('../images/clothesicon.png') 0 0 no-repeat;
 }
 .fore2 .icon{
-    background:url('images/clothesicon.png') 0 -26px no-repeat;
+    background:url('../images/clothesicon.png') 0 -26px no-repeat;
 }
 .fore3 .icon{
-    background:url('images/clothesicon.png') 0 -52px no-repeat;
+    background:url('../images/clothesicon.png') 0 -52px no-repeat;
 }
 .fore4 .icon{
-    background:url('images/clothesicon.png') 0 -78px no-repeat;
+    background:url('../images/clothesicon.png') 0 -78px no-repeat;
 }
 .fore5 .icon{
-    background:url('images/clothesicon.png') 0 -104px no-repeat;
+    background:url('../images/clothesicon.png') 0 -104px no-repeat;
 }
 .fore6 .icon{
-    background:url('images/clothesicon.png') 0 -130px no-repeat;
+    background:url('../images/clothesicon.png') 0 -130px no-repeat;
 }
 .side-inner .words{
     height:128px;
